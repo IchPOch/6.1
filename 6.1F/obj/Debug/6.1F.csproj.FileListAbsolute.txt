@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\6.1F\6.1F\bin\Debug\6.1F.exe.config
+C:\Users\Aleks\source\repos\6.1F\6.1F\bin\Debug\6.1F.exe
+C:\Users\Aleks\source\repos\6.1F\6.1F\bin\Debug\6.1F.pdb
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\6.1F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\_6._1F.Form1.resources
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\_6._1F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\6.1F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\6.1F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\6.1F.exe
+C:\Users\Aleks\source\repos\6.1F\6.1F\obj\Debug\6.1F.pdb
